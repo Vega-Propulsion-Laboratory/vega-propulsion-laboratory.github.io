@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-<h1>BPS Wiki</h1>{: .no_toc }
+<h1>VPL Wiki</h1>{: .no_toc }
 <details open markdown="block">
   <summary>
     Table of contents
