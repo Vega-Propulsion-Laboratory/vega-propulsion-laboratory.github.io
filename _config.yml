@@ -1,10 +1,26 @@
-title: Vega Propulsion Lab Wiki
-description: Wiki Page that consist all of the development and research conducted by Vega Propulsion Lab.
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
+title: "VPL Wiki"
+description: "Wiki Page that consist all of the development and research conducted by Vega Propulsion Lab."
+
+remote_theme: "pmarsceill/just-the-docs"
 
 baseurl: "wiki.vegapropulsionlab.org"
 url: https://just-the-docs.github.io
 
+search_enabled: true
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links_in_new_tab: true
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "BPS.space":
+    - "http://vegapropulsionlab.org/"
+  "BPS Wiki on GitHub":
+    - "https://github.com/Vega-Propulsion-Laboratory/vega-propulsion-laboratory.github.io"
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/Vega-Propulsion-Laboratory/vega-propulsion-laboratory.github.io" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
