@@ -1,7 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Vega Propulsion Lab Wiki
+description: Wiki Page that consist all of the development and research conducted by Vega Propulsion Lab.
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 
+baseurl: "wiki.vegapropulsionlab.org"
 url: https://just-the-docs.github.io
 
 aux_links:
