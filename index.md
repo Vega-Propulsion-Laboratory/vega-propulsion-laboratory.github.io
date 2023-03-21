@@ -18,7 +18,7 @@ nav_order: 1
 ## About
 
 This wiki is dedicated to being a hub for links to useful programs, books,
-webpages as well as curated articles created by members of the BPS community
+webpages as well as curated articles created by members of the VPL community
 
 ---
 
@@ -46,7 +46,7 @@ be added to the `.md` file of the appropriate category.
 5. Submit a pull request to the main repo and include a short description of
    your changes
 
-[github]: https://github.com/BPS-space/bps-space.github.io
+[github]: https://github.com/VPL-space/VPL-space.github.io
 
 ### Technical Details
 
