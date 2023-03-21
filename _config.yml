@@ -14,9 +14,9 @@ back_to_top_text: "Back to top"
 
 aux_links_in_new_tab: true
 aux_links:
-  "BPS.space":
+  "VPL":
     - "http://vegapropulsionlab.org/"
-  "BPS Wiki on GitHub":
+  "VPL Wiki on GitHub":
     - "https://github.com/Vega-Propulsion-Laboratory/vega-propulsion-laboratory.github.io"
 
 gh_edit_link: true # show or hide edit this page link
